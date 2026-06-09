@@ -1,0 +1,4 @@
+interface:
+  display_name: "Serenity Investment Research — A-Share Edition"
+  short_description: "用 Serenity 框架研究产业链瓶颈、中国位置和 A 股投资标的，适配 A 股投资者画像"
+  default_prompt: "使用 $serenity-investment-research-a-share 按 Serenity 的瓶颈迁移框架分析这个产业链或投资标的，先判断技术路线、中国位置和不可绕开瓶颈，再按需要给出 A 股优先的候选标的排序和持仓建议。"
